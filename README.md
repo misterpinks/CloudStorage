@@ -1,6 +1,6 @@
 # CloudStorage
 
-This is a WIP List of all public clud storage sites
+#This is a WIP List of all public cloud storage sites, it is far from comprehensive, but feel free to contribute. 
 
 Name,URL
 adrive.com,https://www.adrive.com/
